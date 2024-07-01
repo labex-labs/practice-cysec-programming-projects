@@ -6,8 +6,8 @@
 
 Gain practical skills in network mapping with Nmap, packet analysis with Wireshark, and ethical hacking methodologies using Kali Linux. Explore host discovery, port scanning, vulnerability assessments, traffic capture, packet dissection, and a wide range of security tools. Develop hands-on expertise in network reconnaissance, web app testing, wireless hacking, exploitation, and post-exploitation techniques. This comprehensive path equips you with essential InfoSec knowledge to identify risks, conduct ethical hacking assessments, and strengthen organizational security posture.
 
-|   Index | Name                                      | Level   | Project Link                                                                                    |
-|---------|-------------------------------------------|---------|-------------------------------------------------------------------------------------------------|
+|   Index | Name                                      | Level   | Project Link                                                                                   |
+|---------|-------------------------------------------|---------|------------------------------------------------------------------------------------------------|
 |       1 | Build a Web Based TCP Port Scanner        | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-build-a-web-based-tcp-port-scanner)        |
 |       2 | Building a Network Scanner in Python      | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-building-a-network-scanner-in-python)      |
 |       3 | Building a Port Scanner With Python       | ★☆☆     | [🚀 Start Building](https://labex.io/courses/project-building-a-port-scanner-with-python)       |
